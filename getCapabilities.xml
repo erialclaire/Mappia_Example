@@ -182,7 +182,7 @@
 				<Title>sectorisation_2025</Title>
 				<Abstract>GH:sectorisation_2025 ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸1</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="2.36544" miny="48.9435" maxx="2.40804" maxy="48.9721"></LatLonBoundingBox>
@@ -202,7 +202,7 @@
 				<Title>93___communes_openstreetmap_l93</Title>
 				<Abstract>GH:93___communes_openstreetmap_l93 ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸//github.com/erialclaire/Mappia_Example/releases/download/Map_Download/93___communes_openstreetmap_l93.zip˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸1</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="2.3652773278462305" miny="48.943377560151774" maxx="2.4081466722179528" maxy="48.972213388773106"></LatLonBoundingBox>
@@ -222,7 +222,7 @@
 				<Title>google_satellite_hybrid</Title>
 				<Abstract>GH:google_satellite_hybrid ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸tif˸˸˸disabledownload˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸tif˸˸˸disabledownload˸notListing˸˸maxZoom˸1</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-180.0" miny="-85.0511287798066" maxx="179.99999999999997" maxy="85.05112877980659"></LatLonBoundingBox>
